@@ -4,6 +4,11 @@
 
 A custom component to view status of [HDHomeRun](https://www.silicondust.com/hdhomerun/) devices from Home Assistant.
 
+## NOTE
+
+This component has been superseded by a better one from [uvjim](https://github.com/uvjim).  
+This can be found [here](https://github.com/uvjim/hass_hdhomerun)
+
 ## Installation
 
 This component requires the [libhdhomerun](https://github.com/Silicondust/libhdhomerun) library to function.  
